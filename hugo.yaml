@@ -3,6 +3,40 @@ languageCode: en-us
 title: My Blog Website
 theme: ["PaperMod"]
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  homeInfoParams:
+    Title: Hello Stranger
+    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of stuff.
+  socialIcons:
+    - name: facebook
+      url: 'https://facebook.com'
+    - name: x
+      url: 'https:twitter.com'
+    - name: github
+      url: 'https://github.com/Fearfully-M'
+
+  cover:
+    linkFullImages: True
+
+  ShowBreadCrumbs: True
+  ShowReadingTime: True 
+  ShowShareButtons: True
+  ShowPostNavLinks: True
+  ShowToc: True
+  TocOpen: True
+  ShowCodeCopyButtons: true
+
+  author: ['Fearfully-M']
+
+  comments: True
+  
+
 menu:
   main:
     - identifier: categories
@@ -19,3 +53,8 @@ menu:
       name: Archives
       url: /archives/
       weight: 3
+
+    - identifier: search
+      name: Search Blog
+      url: /search/
+      weight: 4
