@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "baseURL = "https://strong-croissant-e04c89.netlify.app/"
 languageCode: en-us
 title: My Blog Website
 theme: ["PaperMod"]
