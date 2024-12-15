@@ -2,38 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://strong-croissant-e04c89.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-15T00:56:46-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2024-12-15T00:56:46-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/posts/firstblog/firstblogpost/</loc>
+    <loc>http://localhost:1313/posts/firstblog/firstblogpost/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/posts/firstblog/secondblogpost/</loc>
+    <loc>http://localhost:1313/posts/firstblog/secondblogpost/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/posts/firstblog/thirdblogpost/</loc>
+    <loc>http://localhost:1313/posts/firstblog/thirdblogpost/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/tags/html/</loc>
+    <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/posts/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/categories/tech/</loc>
     <lastmod>2024-12-09T03:07:07-05:00</lastmod>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/categories/tech/</loc>
-    <lastmod>2024-12-09T03:07:07-05:00</lastmod>
+    <loc>http://localhost:1313/portfolio/item1/</loc>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/archives/</loc>
+    <loc>http://localhost:1313/portfolio/item2/</loc>
   </url><url>
-    <loc>https://strong-croissant-e04c89.netlify.app/search/</loc>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
