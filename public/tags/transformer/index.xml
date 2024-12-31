@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Transformer on My Blog Website</title>
-    <link>https://strong-croissant-e04c89.netlify.app/tags/transformer/</link>
+    <link>http://localhost:36779/tags/transformer/</link>
     <description>Recent content in Transformer on My Blog Website</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://strong-croissant-e04c89.netlify.app/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36779/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News App Summarizer (&#39;Start the Ripple&#39;)</title>
-      <link>https://strong-croissant-e04c89.netlify.app/portfolio/starttheripple/</link>
+      <link>http://localhost:36779/portfolio/starttheripple/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/portfolio/starttheripple/</guid>
+      <guid>http://localhost:36779/portfolio/starttheripple/</guid>
       <description>Positive News App - &amp;lsquo;Start The Ripple&amp;rsquo;
 Video Demo: Description: This is a positive news application built with Python, Flask, HTML, CSS, Jinja, and multiple Python libraries and APIs. Its purpose is to deliver uplifting and inspiring news by aggregating articles and videos from various niches.
 Positive News Application

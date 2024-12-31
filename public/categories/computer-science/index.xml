@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Computer Science on My Blog Website</title>
-    <link>https://strong-croissant-e04c89.netlify.app/categories/computer-science/</link>
+    <link>http://localhost:36779/categories/computer-science/</link>
     <description>Recent content in Computer Science on My Blog Website</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://strong-croissant-e04c89.netlify.app/categories/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36779/categories/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Beginner&#39;s Guide to HTTP Requests</title>
-      <link>https://strong-croissant-e04c89.netlify.app/posts/post_httprequests/</link>
+      <link>http://localhost:36779/posts/post_httprequests/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/posts/post_httprequests/</guid>
+      <guid>http://localhost:36779/posts/post_httprequests/</guid>
       <description>A Beginner&amp;rsquo;s Guide to HTTP Requests
 What Are HTTP Requests? HTTP (HyperText Transfer Protocol) is the foundation of communication on the web. When you access a website, your browser sends an HTTP request to the server hosting the site, and the server responds with the requested resources or an error message.
 HTTP requests are categorized into methods, and the server’s response includes status codes indicating the result of the request.</description>
     </item>
     <item>
       <title>Intro to Regex in Python</title>
-      <link>https://strong-croissant-e04c89.netlify.app/posts/post_regex/</link>
+      <link>http://localhost:36779/posts/post_regex/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/posts/post_regex/</guid>
+      <guid>http://localhost:36779/posts/post_regex/</guid>
       <description>A Beginner&amp;rsquo;s Guide to Regular Expressions in Python
 What Are Regular Expressions? Regular expressions, often abbreviated as regex or regexp, are patterns used to match sequences of characters in text. They are powerful tools for searching, extracting, and manipulating strings based on specific patterns. In Python, the re library is used to work with regular expressions, offering a range of functions to simplify text processing.
 When to Use Regular Expressions You should consider using regular expressions when:</description>
     </item>
     <item>
       <title>Creating Python Virtual Environments</title>
-      <link>https://strong-croissant-e04c89.netlify.app/posts/post_virtualenvironment/</link>
+      <link>http://localhost:36779/posts/post_virtualenvironment/</link>
       <pubDate>Mon, 09 Dec 2024 03:07:07 -0500</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/posts/post_virtualenvironment/</guid>
+      <guid>http://localhost:36779/posts/post_virtualenvironment/</guid>
       <description>1. What is a Virtual Environment? A Python virtual environment is a self-contained directory that includes its own Python interpreter and libraries. This setup is useful because it allows each project to use specific packages and versions without conflicts.
 For example, you might have one project that requires Flask 1.1 and another that needs Flask 2.0. Virtual environments let you keep these projects separate.
 2. How to Create a Virtual Environment To create a virtual environment, use Python’s venv module.</description>

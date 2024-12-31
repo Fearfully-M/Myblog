@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on My Blog Website</title>
-    <link>https://strong-croissant-e04c89.netlify.app/tags/</link>
+    <link>http://localhost:36779/tags/</link>
     <description>Recent content in Tags on My Blog Website</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://strong-croissant-e04c89.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36779/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/api/</link>
+      <link>http://localhost:36779/tags/api/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/api/</guid>
+      <guid>http://localhost:36779/tags/api/</guid>
       <description></description>
     </item>
     <item>
       <title>Bart</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/bart/</link>
+      <link>http://localhost:36779/tags/bart/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/bart/</guid>
+      <guid>http://localhost:36779/tags/bart/</guid>
       <description></description>
     </item>
     <item>
       <title>CSS</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/css/</link>
+      <link>http://localhost:36779/tags/css/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/css/</guid>
+      <guid>http://localhost:36779/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Custom Tkinter</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/custom-tkinter/</link>
+      <link>http://localhost:36779/tags/custom-tkinter/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/custom-tkinter/</guid>
+      <guid>http://localhost:36779/tags/custom-tkinter/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/html/</link>
+      <link>http://localhost:36779/tags/html/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/html/</guid>
+      <guid>http://localhost:36779/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>HTTP</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/http/</link>
+      <link>http://localhost:36779/tags/http/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/http/</guid>
+      <guid>http://localhost:36779/tags/http/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugging Face</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/hugging-face/</link>
+      <link>http://localhost:36779/tags/hugging-face/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/hugging-face/</guid>
+      <guid>http://localhost:36779/tags/hugging-face/</guid>
       <description></description>
     </item>
     <item>
       <title>Intro</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/intro/</link>
+      <link>http://localhost:36779/tags/intro/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/intro/</guid>
+      <guid>http://localhost:36779/tags/intro/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/llm/</link>
+      <link>http://localhost:36779/tags/llm/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/llm/</guid>
+      <guid>http://localhost:36779/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>NewsAPI</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/newsapi/</link>
+      <link>http://localhost:36779/tags/newsapi/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/newsapi/</guid>
+      <guid>http://localhost:36779/tags/newsapi/</guid>
       <description></description>
     </item>
     <item>
       <title>Nltk</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/nltk/</link>
+      <link>http://localhost:36779/tags/nltk/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/nltk/</guid>
+      <guid>http://localhost:36779/tags/nltk/</guid>
       <description></description>
     </item>
     <item>
       <title>Pickle</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/pickle/</link>
+      <link>http://localhost:36779/tags/pickle/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/pickle/</guid>
+      <guid>http://localhost:36779/tags/pickle/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/python/</link>
+      <link>http://localhost:36779/tags/python/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/python/</guid>
+      <guid>http://localhost:36779/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Regex</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/regex/</link>
+      <link>http://localhost:36779/tags/regex/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/regex/</guid>
+      <guid>http://localhost:36779/tags/regex/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformer</title>
-      <link>https://strong-croissant-e04c89.netlify.app/tags/transformer/</link>
+      <link>http://localhost:36779/tags/transformer/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://strong-croissant-e04c89.netlify.app/tags/transformer/</guid>
+      <guid>http://localhost:36779/tags/transformer/</guid>
       <description></description>
     </item>
   </channel>
