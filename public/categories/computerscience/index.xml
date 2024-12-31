@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computerscience on My Blog Website</title>
+    <link>http://localhost:45889/categories/computerscience/</link>
+    <description>Recent content in Computerscience on My Blog Website</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:45889/categories/computerscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to Regex in Python</title>
+      <link>http://localhost:45889/posts/post_regex/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45889/posts/post_regex/</guid>
+      <description>A Beginner&amp;rsquo;s Guide to Regular Expressions in Python
+What Are Regular Expressions? Regular expressions, often abbreviated as regex or regexp, are patterns used to match sequences of characters in text. They are powerful tools for searching, extracting, and manipulating strings based on specific patterns. In Python, the re library is used to work with regular expressions, offering a range of functions to simplify text processing.
+When to Use Regular Expressions You should consider using regular expressions when:</description>
+    </item>
+  </channel>
+</rss>

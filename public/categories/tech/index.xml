@@ -2,41 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech on My Blog Website</title>
-    <link>http://localhost:43211/categories/tech/</link>
+    <link>https://strong-croissant-e04c89.netlify.app/categories/tech/</link>
     <description>Recent content in Tech on My Blog Website</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 03:07:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:43211/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strong-croissant-e04c89.netlify.app/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating Python Virtual Environments</title>
-      <link>http://localhost:43211/posts/firstblog/firstblogpost/</link>
-      <pubDate>Mon, 09 Dec 2024 03:07:07 -0500</pubDate>
-      <guid>http://localhost:43211/posts/firstblog/firstblogpost/</guid>
-      <description>1. What is a Virtual Environment? A Python virtual environment is a self-contained directory that includes its own Python interpreter and libraries. This setup is useful because it allows each project to use specific packages and versions without conflicts.
-For example, you might have one project that requires Flask 1.1 and another that needs Flask 2.0. Virtual environments let you keep these projects separate.
-2. How to Create a Virtual Environment To create a virtual environment, use Python’s venv module.</description>
+      <title>News App Summarizer (&#39;Start the Ripple&#39;)</title>
+      <link>https://strong-croissant-e04c89.netlify.app/portfolio/starttheripple/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/portfolio/starttheripple/</guid>
+      <description>Positive News App - &amp;lsquo;Start The Ripple&amp;rsquo;
+Video Demo: Description: This is a positive news application built with Python, Flask, HTML, CSS, Jinja, and multiple Python libraries and APIs. Its purpose is to deliver uplifting and inspiring news by aggregating articles and videos from various niches.
+Positive News Application
+This is a positive news application built with Python, Flask, HTML, CSS, Jinja, and multiple Python libraries and APIs. Its purpose is to deliver uplifting and inspiring news by aggregating articles and videos from various niches.</description>
     </item>
     <item>
-      <title>First Portfolio</title>
-      <link>http://localhost:43211/portfolio/resumeanalyzer/item1/</link>
-      <pubDate>Mon, 09 Dec 2024 03:07:07 -0500</pubDate>
-      <guid>http://localhost:43211/portfolio/resumeanalyzer/item1/</guid>
-      <description>Hello guys whats up</description>
-    </item>
-    <item>
-      <title>Firstsecondpost</title>
-      <link>http://localhost:43211/posts/secondblogpost/</link>
-      <pubDate>Mon, 09 Dec 2024 03:07:07 -0500</pubDate>
-      <guid>http://localhost:43211/posts/secondblogpost/</guid>
-      <description>This is a header This is a smaller header This is a paragraph</description>
-    </item>
-    <item>
-      <title>thirdblogpost</title>
-      <link>http://localhost:43211/posts/thirdblogpost/</link>
-      <pubDate>Mon, 09 Dec 2024 03:07:07 -0500</pubDate>
-      <guid>http://localhost:43211/posts/thirdblogpost/</guid>
-      <description>Basic Regex Characters Pattern Description Example . Any character except newline a.b matches acb, aXb \d Any digit (0-9) \d\d matches 42 \D Any non-digit \D matches a, X \w Any word character (a-z, A-Z, 0-9, _) \w\w\w matches abc \W Any non-word character \W matches @, #, \s Any whitespace (spaces, tabs, newlines) \s\s matches 2 spaces \S Any non-whitespace \S\S matches ab ^ Start of a string ^a matches abc but not bac $ End of a string b$ matches cab \b Word boundary \bword\b matches word but not swordfish \B Not a word boundary \Bfoo matches foobar but not foo bar Quantifiers Pattern Description Example * 0 or more occurrences a* matches a, aa, or empty + 1 or more occurrences a+ matches a, aa ?</description>
+      <title>Resume Keyword Analyzer</title>
+      <link>https://strong-croissant-e04c89.netlify.app/portfolio/resumeanalyzer/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/portfolio/resumeanalyzer/</guid>
+      <description>Resume Keyword Analyzer
+#### Video Demo: &amp;lt;URL HERE&amp;gt; #### Description: A Python application that determines the ratio of keywords from a job description compared to a user&amp;#39;s resume text file Overview
+The goal of this project was to enhance familiarity with Python and explore a couple of Python libraries through the development of a practical application.
+Resume Keyword Analyzer is designed to help users optimize their resumes for specific job descriptions.</description>
     </item>
   </channel>
 </rss>

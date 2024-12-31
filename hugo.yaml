@@ -11,8 +11,8 @@ outputs:
 
 params:
   homeInfoParams:
-    Title: Hello Stranger
-    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of stuff.
+    Title: Hello, and welcome to my blog!
+    Content: Here you'll find info and tutorials mostly about Full Stack Technologies + other stuff! 😂
   socialIcons:
     - name: facebook
       url: 'https://facebook.com'
@@ -39,27 +39,33 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+
+    - identifier: blog
+      name: Blog
+      url: /
       weight: 1
-
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 2
-
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 3
-
-    - identifier: portfolio
-      name: Portfolio
-      url: /portfolio/
-      weight: 4
 
     - identifier: search
       name: Search Blog
       url: /search/
+      weight: 2
+
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 3
+
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 4
+
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 5
+
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 6

@@ -2,17 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on My Blog Website</title>
-    <link>http://localhost:43211/categories/</link>
+    <link>https://strong-croissant-e04c89.netlify.app/categories/</link>
     <description>Recent content in Categories on My Blog Website</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 03:07:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:43211/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strong-croissant-e04c89.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API</title>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/api/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Science</title>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/computer-science/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/computer-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/css/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTTP Requests</title>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/http-requests/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/http-requests/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/portfolio/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/python/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:43211/categories/tech/</link>
-      <pubDate>Mon, 09 Dec 2024 03:07:07 -0500</pubDate>
-      <guid>http://localhost:43211/categories/tech/</guid>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/tech/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformer</title>
+      <link>https://strong-croissant-e04c89.netlify.app/categories/transformer/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strong-croissant-e04c89.netlify.app/categories/transformer/</guid>
       <description></description>
     </item>
   </channel>
