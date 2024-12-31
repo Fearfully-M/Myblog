@@ -1,5 +1,5 @@
 +++
-title = 'Firstblogpost'
+title = 'thirdblogpost'
 date = 2024-12-09T03:07:07-05:00
 draft = false
 tags = ['HTML', 'CSS']
